@@ -24,7 +24,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/OrionXBSC",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "https://x.com/OrionXBSC",
+  "VITE_TWITTER_URL": "https://x.com/SolaceX_Sol",
   "VITE_SEO_SITE_NAME": "SolaceX",
   "VITE_SEO_SITE_DESCRIPTION": "No.1 Trading Ecosystem on Solana",
   "VITE_SEO_SITE_URL": "https://orionx.trade",
