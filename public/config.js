@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/BNBPerpExchange",
   "VITE_SEO_SITE_NAME": "BNBPerp",
   "VITE_SEO_SITE_DESCRIPTION": "No.1 Trading Ecosystem on BNB Chain",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/bnbperp-5719/",
+  "VITE_SEO_SITE_URL": "https://bperp.trade",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@BNBPerpExchange",
